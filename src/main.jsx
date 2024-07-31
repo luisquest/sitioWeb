@@ -16,12 +16,13 @@ import Plans from './Plans'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Saludo />
-    <AboutUs />
-    <Services />
+    <AboutUs />  
+    <Servicestwo />
+
     <Plans />
     <Products />
     <Clients />
-    <Servicestwo />
+    <Services />
     <Testimonials />
     <Footer />
   </React.StrictMode>,

@@ -35,7 +35,7 @@ const features = [
 
 const Services = () => {
   return (
-  <div className="bg-white py-24 sm:py-32" id="services">
+  <div className="bg-white pt-20 sm:pt-20" id="services">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:text-center">
           <h2 className="text-base font-semibold leading-7 text-[#ea0a2a]">Nuestros Servicios</h2>

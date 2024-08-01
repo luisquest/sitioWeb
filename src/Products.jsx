@@ -4,10 +4,10 @@ const Products = () => {
     return (
       <div className="relative isolate overflow-hidden bg-gray-900 py-16 sm:py-24 lg:py-32" id="products">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
-          <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 lg:max-w-none lg:grid-cols-2">
+          <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 lg:max-w-none lg:grid-cols-2 ">
             <div className="max-w-xl lg:max-w-lg">
-              <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">Enterate de nuestras ofertas y conoce nuestra tienda virtual</h2>              <p className="mt-4 text-lg leading-8 text-gray-300">
-                Dejanos tus datos, y 
+              <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl">Conoce nuestra Tienda Virtual </h2>              <p className="mt-4 text-lg leading-8 text-gray-300">
+                Y entérate de nuestras promociones y descuentos, en productos seleccionados y marcas reconocidas
               </p>
               <div className="mt-6 flex max-w-md gap-x-4">
            
@@ -24,18 +24,18 @@ const Products = () => {
                 <div className="rounded-md bg-white/5 p-2 ring-1 ring-white/10">
                   <CalendarDaysIcon aria-hidden="true" className="h-6 w-6 text-white" />
                 </div>
-                <dt className="mt-4 font-semibold text-white">Recibe ofertas y promociones</dt>
+                <dt className="mt-4 font-semibold text-white">Ofertas y promociones</dt>
                 <dd className="mt-2 leading-7 text-gray-400">
-                  Non laboris consequat cupidatat laborum magna. Eiusmod non irure cupidatat duis commodo amet.
+                  
                 </dd>
               </div>
               <div className="flex flex-col items-start">
                 <div className="rounded-md bg-white/5 p-2 ring-1 ring-white/10">
                   <HandRaisedIcon aria-hidden="true" className="h-6 w-6 text-white" />
                 </div>
-                <dt className="mt-4 font-semibold text-white">Obtén los mejores precios</dt>
+                <dt className="mt-4 font-semibold text-white">Novedades e ingresos</dt>
                 <dd className="mt-2 leading-7 text-gray-400">
-                  Officia excepteur ullamco ut sint duis proident non adipisicing. Voluptate incididunt anim.
+               
                 </dd>
               </div>
             </dl>

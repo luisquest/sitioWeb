@@ -17,7 +17,7 @@ const Footer=()=> {
           </Typography>
 
           <div className="flex gap-4 text-[#000000] sm:justify-center">
-            <Typography as="a" href="#" className=" hover:text-[#ea0a2a]">
+            <Typography as="a" href="https://www.facebook.com/invertecwl" target="_blank" className=" hover:text-[#ea0a2a]">
               <svg className="h-10 w-105" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path
                   fill-rule="evenodd"
@@ -26,7 +26,7 @@ const Footer=()=> {
                 />
               </svg>
             </Typography>
-            <Typography as="a" href="#" className="hover:text-[#ea0a2a]">
+            <Typography as="a" href="https://www.instagram.com/invertecwl/" className="hover:text-[#ea0a2a]" target="_blank" >
               <svg className="h-10 w-10" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path
                   fill-rule="evenodd"
@@ -36,7 +36,7 @@ const Footer=()=> {
               </svg>
             </Typography>
             
-            <Typography as="a" href="#" className="hover:text-[#ea0a2a]">
+            <Typography as="a" href="https://www.youtube.com/@invertecwl" className="hover:text-[#ea0a2a]" target="_blank" >
               <svg className="h-10 w-10" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                 <path
                   fill-rule="evenodd"

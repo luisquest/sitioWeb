@@ -14,7 +14,7 @@ const Plans=()=> {
         <div className="mx-auto max-w-3xl sm:text-center">
           <h3 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Elige el plan en TI que mejor se ajuste </h3>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-          Descubre nuestros servicios adaptados a tus necesidades con tres planes flexibles y disfruta de soluciones personalizadas que maximizan tus resultados. <br /> <b>¡Estamos aquí para ayudarte a alcanzar el éxito!</b>
+          Descubre nuestros servicios adaptándonos a tus necesidades con nuestros planes flexibles y disfruta de soluciones personalizadas que maximizan tus resultados. <br /> <b>¡Estamos aquí para ayudarte a alcanzar el éxito!</b>
           </p>
         </div>
         <div className="mx-auto mt-16 max-w-2xl rounded-3xl ring-1 ring-gray-200 sm:mt-20 lg:mx-0 lg:flex lg:max-w-none">
@@ -54,7 +54,7 @@ const Plans=()=> {
                   Consultar
                 </a>
                 <p className="mt-6 text-xs leading-5 text-gray-600">
-                  Invoices and receipts available for easy company reimbursement
+                  * Aplican términos y condiciones *
                 </p>
               </div>
             </div>
